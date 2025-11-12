@@ -1,4 +1,4 @@
-import type { IconName } from '@umituz/react-native-icon';
+import type { IconName } from '@umituz/react-native-design-system-atoms';
 
 /**
  * Menu action entity
