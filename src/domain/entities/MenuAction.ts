@@ -8,7 +8,7 @@ export interface MenuAction {
   /** Unique identifier for the action */
   id: string;
 
-  /** Icon name from @umituz/react-native-icon package */
+  /** Icon name from @umituz/react-native-design-system-atoms (Lucide icons) */
   icon: IconName;
 
   /** Display label for the action */
